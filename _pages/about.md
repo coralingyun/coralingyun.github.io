@@ -17,42 +17,52 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Master's student at **Tongji University**, affiliated with the Shanghai Research Institute for Intelligent Autonomous Systems. Previously, I received my B.E. degree in Internet of Things Engineering from Anhui Normal University in 2025.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interests lie broadly in **Human Activity Recognition**, **Machine Learning**, **Edge Computing** and **XAI**. I focus on developing lightweight, real-time algorithmic solutions for mobile and edge devices.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by *IEEE Sensors Journal*!
+- *2025.01*: &nbsp;🎉🎉 Ranked as Outstanding Graduate of Anhui Province.
+- *2021.09*: &nbsp;🎉🎉 Enrolled in Anhui Normal University for B.E. degree.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors 2025</div><img src='images/fall_detection.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Real-Time Fall Detection Using Smartphone Accelerometers and WiFi Channel State Information](https://doi.org/10.1109/JSEN.2025.3547060)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Author 1, **Lingyun Wang** (First Author)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**IEEE Sensors Journal (Q2, IF=4.3)** 
+- Developed a dual-stage fall detection method utilizing smartphone Inertial Measurement Units (IMU) and optimized Wi-Fi Channel State Information (CSI), achieving 99% accuracy.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors 2025</div><img src='images/sit_pose.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SitPose: Real-Time Detection of Sitting Posture and Sedentary Behavior Using Ensemble Learning With Depth Sensor](https://doi.org/10.1109/JSEN.2025.3541821)
+
+Author 1, Author 2, **Lingyun Wang** (Third Author)
+
+**IEEE Sensors Journal (Q2, IF=4.3)** 
+- Employed Azure Kinect depth cameras to capture posture images and classified sitting postures utilizing a Soft Voting Mechanism with an accuracy of 98.9%.
+</div>
+</div>
+
+# 💻 Featured Projects & Competitions
+- *2023.11*, **Mobile Heart Rate Monitoring System Based on Milimeter Wave Radar and Multimodal Data**, Team Leader. *3rd Prize, Anhui Province (4C Competition).*
+- *2023.09*, **Automatic Pricing and Replenishment Decision for Vegetables Based on Time Series Forecasting & PSO**, Team Leader. *1st Prize, Anhui Province (CUMCM).*
+- *Project*, **[Communication-Efficient Learning of Deep Networks from Decentralized Data](https://github.com/shaoxiongji/federated-learning)** (Federated Learning, FedAvg, PyTorch). Constructed CNN models simulating Non-IID environments, achieving a 10-100x reduction in communication volume.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06* Outstanding Graduate of Anhui Province.
+- *2021 - 2025* Merit Student (Awarded 4 consecutive years).
+- *2023.05* Intl. Mathematics Modeling Contest for Higher Education (O Award).
+- *2022.10* National English Competition (Category C) 1st Prize.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.09 - Present*, M.S. in Intelligent Science and Technology, Tongji University, Shanghai, China.
+- *2021.09 - 2025.06*, B.E. in Internet of Things Engineering, Anhui Normal University, Wuhu, China.
