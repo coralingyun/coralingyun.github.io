@@ -23,8 +23,8 @@ My research interests lie broadly in **Human Activity Recognition**, **Machine L
 
 # 🔥 News
 - *2025.09*: &nbsp;🤓 Enrolled in Tongji University!
+- *2025.06*: &nbsp;🎉 Ranked as Outstanding Graduate of Anhui Province.
 - *2025.02*: &nbsp;🎉 One paper is accepted by *IEEE Sensors Journal*!
-- *2025.01*: &nbsp;🎉 Ranked as Outstanding Graduate of Anhui Province.
 - *2021.09*: &nbsp;🤓 Enrolled in Anhui Normal University for B.E. degree.
 
 # 📝 Publications 
