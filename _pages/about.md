@@ -22,9 +22,10 @@ I am currently a Master's student at **Tongji University**, affiliated with the 
 My research interests lie broadly in **Human Activity Recognition**, **Machine Learning**, **Edge Computing** and **XAI**. I focus on developing lightweight, real-time algorithmic solutions for mobile and edge devices.
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by *IEEE Sensors Journal*!
-- *2025.01*: &nbsp;🎉🎉 Ranked as Outstanding Graduate of Anhui Province.
-- *2021.09*: &nbsp;🎉🎉 Enrolled in Anhui Normal University for B.E. degree.
+- *2025.09*: &nbsp;🤓 Enrolled in Tongji University!
+- *2025.02*: &nbsp;🎉 One paper is accepted by *IEEE Sensors Journal*!
+- *2025.01*: &nbsp;🎉 Ranked as Outstanding Graduate of Anhui Province.
+- *2021.09*: &nbsp;🤓 Enrolled in Anhui Normal University for B.E. degree.
 
 # 📝 Publications 
 
