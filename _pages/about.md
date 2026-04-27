@@ -58,7 +58,7 @@ Author 1, Author 2, **Lingyun Wang** (Third Author)
 - *2023.09*, **Automatic Pricing and Replenishment Decision for Vegetables Based on Time Series Forecasting & PSO**, Team Leader. *1st Prize, Anhui Province (CUMCM).*
 - *Project*, **[Communication-Efficient Learning of Deep Networks from Decentralized Data](https://github.com/shaoxiongji/federated-learning)** (Federated Learning, FedAvg, PyTorch). Constructed CNN models simulating Non-IID environments, achieving a 10-100x reduction in communication volume.
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2025.06* Outstanding Graduate of Anhui Province.
 - *2021 - 2025* Merit Student (Awarded 4 consecutive years).
 - *2023.05* Intl. Mathematics Modeling Contest for Higher Education (O Award).
